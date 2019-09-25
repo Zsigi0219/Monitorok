@@ -1,0 +1,12 @@
+﻿1080;1920;LCD
+1080;1920;LCD;false;6;true
+1010;2010;LED
+1020;2020;Plasma
+1020;2020;LED;true
+1020;2020;Plasma;false
+1030;2030;LCD;false;3
+1040;2040;LED;true;4
+1070;2070;LED;true;1;false
+1080;2080;Plasma;false;3;true
+2300;4090;LCD;false
+2300;4090;Plasma;false;7

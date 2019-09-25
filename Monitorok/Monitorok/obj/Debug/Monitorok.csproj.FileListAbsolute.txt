@@ -1,0 +1,8 @@
+D:\Users\nyiro\source\repos\Monitorok\Monitorok\obj\Debug\Monitorok.csprojResolveAssemblyReference.cache
+D:\Users\nyiro\source\repos\Monitorok\Monitorok\obj\Debug\Monitorok.csproj.CoreCompileInputs.cache
+D:\Users\nyiro\source\repos\Monitorok\Monitorok\bin\Debug\Monitorok.txt
+D:\Users\nyiro\source\repos\Monitorok\Monitorok\bin\Debug\Monitorok.exe.config
+D:\Users\nyiro\source\repos\Monitorok\Monitorok\bin\Debug\Monitorok.exe
+D:\Users\nyiro\source\repos\Monitorok\Monitorok\bin\Debug\Monitorok.pdb
+D:\Users\nyiro\source\repos\Monitorok\Monitorok\obj\Debug\Monitorok.exe
+D:\Users\nyiro\source\repos\Monitorok\Monitorok\obj\Debug\Monitorok.pdb
